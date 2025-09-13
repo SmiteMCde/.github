@@ -1,0 +1,13 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "description": "Standard Renovate configuration for all repositories",
+    "extends": [
+        "config:recommended"
+    ],
+    "commitMessagePrefix": "chore(deps): ",
+    "labels": [
+        "dependencies"
+    ],
+    "prConcurrentLimit": 0,
+    "prHourlyLimit": 0
+}
