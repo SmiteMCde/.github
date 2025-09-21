@@ -13,8 +13,3 @@ the team at `@SmiteMCde` has created this organization to showcase some of our i
 </a>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SmiteNC_Network?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SmiteMC_Network)
-
-## Visit our hosting provider
-<a href="https://www.hosmatic.com">
-  <img alt="Hosmatic" src="https://cdn.hosmatic.com/branding/logo_white_h_blue_lightblue.png">
-</a>
