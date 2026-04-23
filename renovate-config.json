@@ -8,6 +8,14 @@
     "labels": [
         "dependencies"
     ],
+    "packageRules": [
+        {
+            "matchManagers": ["maven"],
+            "matchPackagePatterns": ["^net\\.kyori:"],
+            "groupName": "kyori dependencies",
+            "groupSlug": "kyori-deps"
+        }
+    ],
     "prConcurrentLimit": 0,
     "prHourlyLimit": 0
 }
