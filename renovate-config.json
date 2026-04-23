@@ -14,6 +14,18 @@
             "matchPackagePatterns": ["^net\\.kyori:"],
             "groupName": "kyori dependencies",
             "groupSlug": "kyori-deps"
+        },
+        {
+            "matchManagers": ["maven"],
+            "matchPackagePatterns": ["^org\\.incendo:"],
+            "groupName": "incendo dependencies",
+            "groupSlug": "incendo-deps"
+        },
+        {
+            "matchManagers": ["maven"],
+            "matchPackagePatterns": ["^eu\\.cloudnetservice\\.cloudnet:"],
+            "groupName": "cloudnet dependencies",
+            "groupSlug": "cloudnet-deps"
         }
     ],
     "prConcurrentLimit": 0,
